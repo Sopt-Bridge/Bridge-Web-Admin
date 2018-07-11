@@ -1,6 +1,16 @@
-# Cording Guide
+# Admin Page
 
-- Cording Guide
+## Routing
+1. 루트 페이지 = /admin
+2. Login 페이지 = /admin/login
+3. Feedback 페이지 = /admin/feedback
+4. Feedback 자세히 보기 = /admin/feedback/detail/:params
+5. Upload 페이지 = /admin/upload
+6. Content 페이지 = /admin/content/:params
+
+# Coding Guide
+
+- Coding Guide
   - 세팅
   - 구조
     - components
